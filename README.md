@@ -1,6 +1,6 @@
 # Django Simple Web Authentication
 
-Saya sarankan pakai distribusi Anaconda di sini, soalnya saya kan buat <i>web developer</i> utamanya pakai Python buat riset jadi ya pakai [Anaconda](https://www.anaconda.com/distribution/) aja. Oh ya, <i>by the way</i>, karena saya orang kiri jadi proses instalasi nya hanya buat GNU/Linux :trollface:.
+Saya sarankan pakai distribusi Anaconda di sini, soalnya saya kan buat <i>web developer</i> utamanya pakai Python buat riset jadi ya pakai [Anaconda](https://www.anaconda.com/distribution/) aja. Oh ya, <i>by the way</i>, karena kami orang kiri jadi proses instalasi nya hanya buat GNU/Linux :trollface:.
 
 Jalankan perintah kayak gini di Terminal:
 
